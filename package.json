@@ -1,0 +1,17 @@
+{
+  "name": "amplenote-pdf-annotator-plugin",
+  "version": "0.1.0",
+  "description": "Amplenote plugin for annotating PDFs from the current note and writing highlight/comment summaries back to the note.",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test",
+    "build": "node scripts/build-plugin-note.js"
+  },
+  "keywords": [
+    "amplenote",
+    "plugin",
+    "pdf",
+    "annotation"
+  ],
+  "license": "MIT"
+}
